@@ -133,6 +133,13 @@
     object-fit: contain;
   }
 
+  .project-1,
+  .project-2,
+  .project-3,
+  .project-4 {
+    height: auto;
+  }
+
   .section__text__p2 {
     font-size: 1.25rem;
   }
